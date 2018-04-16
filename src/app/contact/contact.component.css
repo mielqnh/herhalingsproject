@@ -1,0 +1,42 @@
+.fa {
+  margin: 20px;
+  padding: 20px;
+  width: 85px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+  color: grey;
+}
+
+.fa-facebook {
+  background: black;
+  color: white;
+}
+.fa-twitter {
+  background: black;
+  color: white;
+}
+.fa-linkedin {
+  background: black;
+  color: white;
+}
+.fa-instagram {
+  background: black;
+  color: white;
+}
+
+.contact-section {
+  height: 100%;
+  padding-top: 150px;
+  text-align: center;
+  background: #eee;
+}
+
+#socialmedia {
+  background-color: dodgerblue;
+  margin: 75px;
+}
